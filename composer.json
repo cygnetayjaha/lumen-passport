@@ -6,8 +6,7 @@
         "php": ">=7.0.0",
         "ext-openssl": "*",
         "lcobucci/jwt": "^3.2.2",
-        "psr/http-message": "^1.0.1",
-        "defuse/php-encryption": "^2.1"
+        "psr/http-message": "^1.0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.3 || ^7.0",
@@ -23,22 +22,6 @@
             "url": "https://github.com/cygnetayjaha/lumen-passport.git"
         }
     ],
-    "keywords": [
-        "oauth",
-        "oauth2",
-        "oauth 2",
-        "oauth 2.0",
-        "server",
-        "auth",
-        "authorization",
-        "authorisation",
-        "authentication",
-        "resource",
-        "api",
-        "auth",
-        "protect",
-        "secure"
-    ],
     "authors": [
         {
             "name": "Anuj Jaha",
@@ -47,7 +30,6 @@
         }
     ],
     "replace": {
-        "lncd/oauth2": "*",
         "cygnet/cyg-lumen-passport": "*"
     },
     "autoload": {
