@@ -1,7 +1,6 @@
 {
     "name": "cygnet/cyg-lumen-passport",
     "description": "OAuth 2.0 authorization with custom Payload with help of JWT.",
-    "homepage": "https://oauth2.thephpleague.com/",
     "license": "MIT",
     "require": {
         "php": ">=7.0.0",
@@ -58,7 +57,6 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "LeagueTests\\": "tests/"
         }
     }
 }
