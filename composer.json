@@ -6,7 +6,6 @@
     "require": {
         "php": ">=7.0.0",
         "ext-openssl": "*",
-        "league/event": "^2.1",
         "lcobucci/jwt": "^3.2.2",
         "psr/http-message": "^1.0.1",
         "defuse/php-encryption": "^2.1"
